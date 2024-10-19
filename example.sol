@@ -5,5 +5,6 @@ contract Example {
 /* 
 블록단위 주석
 */
+//AHAHA
 //행단위주석
 }
