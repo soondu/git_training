@@ -1,3 +1,3 @@
 const public = () => {
-  console.log('안녕하살법');
+  console.log('안녕하세요');
 };
