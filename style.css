@@ -1,0 +1,13 @@
+#gdgOnSogang{
+    background-color:paleturquoise;
+}
+
+main {
+    height: 50vh;
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
